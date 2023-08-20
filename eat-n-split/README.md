@@ -1,8 +1,12 @@
-<img width="863" alt="Screenshot 2023-08-20 at 1 16 14 AM" src="https://github.com/GktgYildiz/eatNsplit-ReactSmallProjects/assets/102765970/3a02e884-68b7-43df-a8f1-3524d09da04b">
-<img width="863" alt="Screenshot 2023-08-20 at 1 15 57 AM" src="https://github.com/GktgYildiz/eatNsplit-ReactSmallProjects/assets/102765970/03f63686-5752-4121-9ab6-4fd4ea3039c9">
+
 # eatNsplit-ReactSmallProjects
 splitting the bill app made by using react
 
-<img width="863" alt="Screenshot 2023-08-20 at 1 16 30 AM" src="https://github.com/GktgYildiz/eatNsplit-ReactSmallProjects/assets/102765970/82e7d734-9ea0-4dcc-833c-5c0a55b61173">
-![Uploading Screenshot 2023-08-20 at 1.15.51 AM.png…]()
-![Uploading Screenshot 2023-08-20 at 1.15.45 AM.png…]()
+<img width="863" alt="Screenshot 2023-08-20 at 1 16 30 AM" src="https://github.com/GktgYildiz/eatNsplit-ReactSmallProjects/assets/102765970/0eecf9c3-852c-45ff-b6dc-a03d4736acd5">
+
+
+
+<img width="863" alt="Screenshot 2023-08-20 at 1 15 45 AM" src="https://github.com/GktgYildiz/eatNsplit-ReactSmallProjects/assets/102765970/6ec98079-1157-4964-8cdb-3107648d8c79">
+<img width="863" alt="Screenshot 2023-08-20 at 1 15 51 AM" src="https://github.com/GktgYildiz/eatNsplit-ReactSmallProjects/assets/102765970/fbabfc64-dec3-4b00-904c-1c66d6d3d441">
+<img width="863" alt="Screenshot 2023-08-20 at 1 15 57 AM" src="https://github.com/GktgYildiz/eatNsplit-ReactSmallProjects/assets/102765970/c03aee41-e2e1-4578-b7f0-8b023fb92875">
+<img width="863" alt="Screenshot 2023-08-20 at 1 16 14 AM" src="https://github.com/GktgYildiz/eatNsplit-ReactSmallProjects/assets/102765970/747a068f-5162-443a-8b85-0a14ddb6e783">
